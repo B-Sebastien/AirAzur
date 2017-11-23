@@ -1,5 +1,4 @@
 <div id="accueil">
-Bienvenue sur le TP Air Azur !
+    Bienvenue sur le TP Air Azur !
 </div>
 
-        
